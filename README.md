@@ -1,5 +1,6 @@
 # Wallpapers
 Some of my favorite wallpapers that I got from https://wallhaven.cc
+All of them with a great resolution
 
 |Image|Name|
 |:--:|:--:|
@@ -13,3 +14,4 @@ Some of my favorite wallpapers that I got from https://wallhaven.cc
 ![Wizzard](./tenshiWizzard.png)|  **Wizzard**
 ![Wave](./Wave.png)|  **Wave**
 ![Space Shipwreck](./spaceShipwreck.jpg)|  **Space Shipwreck**
+![Cloudy](./cloudy.jpg)|  **Cloudy**
