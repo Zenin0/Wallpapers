@@ -3,7 +3,7 @@ Some of my favorite wallpapers that I got from https://wallhaven.cc
 
 |Image|Name|
 |:--:|:--:|
-![Kunoichi](./kunoichi.png)|  **Kunoichi**
+![Kunoichi](./Kunoichi.png)|  **Kunoichi**
 ![Meka](./meka.png)|  **Meka**
 ![Oni Girl](./oniGirl.png)|  **Oni Girl**
 ![Pixel Art Apocalypse](./pixelArtApocalypse.jpg)|  **Pixel Art Apocalypse**
