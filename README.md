@@ -19,3 +19,4 @@ All of them with a great resolution
 ![Ducky](./ducky.png) | **Ducky**
 ![Japanese](./japanese.png) | **Japanese**
 ![Ocean](./ocean.png) | **Ocean**
+![Simling Cat](./smilingCat.png) | **Smiling Cat**
